@@ -6,7 +6,7 @@
 
 /**
  *
- * @author Cristiano
+ * @author Cristiano Andrade
  */
 public class JFrameCalculadora extends javax.swing.JFrame {
     private double valor1;
