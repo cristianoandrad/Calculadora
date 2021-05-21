@@ -41,6 +41,7 @@ public class JFrameCalculadora extends javax.swing.JFrame {
      * Creates new form JFrameCalculadora
      */
     public JFrameCalculadora() {
+        
         initComponents();
     }
 
